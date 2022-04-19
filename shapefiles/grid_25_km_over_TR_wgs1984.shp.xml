@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20200526</CreaDate><CreaTime>19520800</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.6\ArcToolbox\Toolboxes\Data Management Tools.tbx\CreateFishnet" Date="20200526" Time="195208">CreateFishnet E:\RoadNetwork\TO_POSTGIS\select_mode_4_2022\grid_25_km_over_TR_wgs1984.shp "26 35" "26 45" 0.25 0.25 # # "46 42" LABELS TR_Grid POLYGON</Process></lineage></DataProperties></Esri></metadata>

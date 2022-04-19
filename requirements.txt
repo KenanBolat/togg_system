@@ -1,0 +1,7 @@
+flask
+flask_cors
+flask_marshmallow
+flask_sqlalchemy
+sqlalchemy
+geoalchemy2
+psycopg2
